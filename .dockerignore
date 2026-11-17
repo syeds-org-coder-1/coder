@@ -21,3 +21,5 @@
 !dogfood/coder/ubuntu-26.04/Dockerfile.base
 !dogfood/coder/ubuntu-26.04/files
 !dogfood/coder/ubuntu-26.04/files/**
+!dogfood/coder/ubuntu-26.04/files/**/lx
+!dogfood/coder/ubuntu-26.04/files/**/LSSSF
